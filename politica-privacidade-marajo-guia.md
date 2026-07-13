@@ -1,6 +1,6 @@
 # Política de Privacidade — Marajó Guia
 
-**Última atualização:** [DD/MM/AAAA]
+**Última atualização:** [13/07/2026]
 
 ## 1. Introdução
 
@@ -115,9 +115,9 @@ Como utilizamos o Firebase (Google), seus dados podem ser processados em servido
 
 Em caso de dúvidas, solicitações ou reclamações relacionadas a esta Política de Privacidade ou ao tratamento de seus dados pessoais, entre em contato:
 
-- Nome/Empresa: [Nome da empresa/responsável pelo Marajó Guia]
-- E-mail: [contato@marajoguia.com.br] <!-- ajustar para o e-mail/domínio real -->
-- Endereço: [Endereço completo, se aplicável]
+- Nome/Empresa: Wendel Alves Sousa
+- E-mail: wendel.alvessousa02@gmail.com
+- Endereço: Rua primeira, 710, Bairro Novo - Soure/PA
 
 ## 12. Alterações nesta Política
 
